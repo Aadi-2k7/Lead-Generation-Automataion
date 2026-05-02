@@ -86,10 +86,8 @@ Generated files:
 
 ## Demo
 
-Include screenshots of:
+<img width="1056" height="900" alt="image" src="https://github.com/user-attachments/assets/7adb5afe-6672-4371-b4eb-3f45aa26dfb3" />
 
-* FastAPI Swagger UI
-* Output files (Excel/CSV)
 
 ---
 
