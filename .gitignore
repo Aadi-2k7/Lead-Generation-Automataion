@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+
+# Ignore everything in outputs except CSV
+outputs/*
+!outputs/leads.csv
